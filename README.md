@@ -3,7 +3,7 @@ ERITROTESTE é um aplicativo baseado em redes neurais artificias para o diagnós
 
 ERITROTESTE TUI é a versão mais leve e rápida do aplicativo ERITROTESTE. Essa versão também permite teste de milhares de exames simultaneamente (vide vídeo).
 
-O arquivo "menu_inicial" é o arquivo principal e o que deve ser executado. Todos os outros arquivos estão amarrados nas opções do menu inicial e são chamados conforme execução e interação do usuário.
+O arquivo "menu_inicial" é o arquivo principal e o que deve ser executado. Todos os outros arquivos estão amarrados nas opções do menu inicial e são chamados conforme execução e interação do usuário. É necessário aplicativos que executem a extensão .xls estejam instalados. 
 
 [![](http://img.youtube.com/vi/4ks2omRj5us/0.jpg)](https://www.youtube.com/watch?v=34eTYqa1-Eg "")
 
