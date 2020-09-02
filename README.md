@@ -1,4 +1,4 @@
-# Eritroteste
+# Eritroteste TUI
 ERITROTESTE é um aplicativo baseado em redes neurais artificias para o diagnóstico autônomo de anemias. Ele utiliza redes neurais artificiais já treinadas e exames de Eritrograma informados pelo usuário para determinar a probabilidade de este ter anemia. Em casos positivos, o programa ainda classifica quanto a morfologia e cromaticidade.
 
 ERITROTESTE TUI é a versão mais leve e rápida do aplicativo ERITROTESTE. Essa versão também permite teste de milhares de exames simultaneamente (vide vídeo).
