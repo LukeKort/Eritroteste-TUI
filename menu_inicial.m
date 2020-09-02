@@ -5,7 +5,7 @@ clc;
 clear all; %Eliminar sujeira de execuções anteriores (mal necessário)
 pause ('on');
 %----------Parâmetros iniciais---------------------------------------------
-fprintf('\t\t|Nome do app|\n')
+fprintf('\t\t|ERITROTESTE|\n')
 fprintf('\n Novo teste \t\t\t\t\t(1)\n')
 fprintf('\n Teste massivo \t\t\t\t\t(2)\n')
 fprintf('\n Créditos\t\t\t\t\t(3)\n')
@@ -41,7 +41,7 @@ switch answer
         fprintf('\n\t\tAté logo...')
         pause(3);
         clc;
-        fprintf('\n Code by L. Kort (May, 8, 2020)')
+        fprintf('\n Code by L. Kort (Sep, 01, 2020)')
         pause(2);
         exit;
 end

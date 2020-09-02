@@ -1,0 +1,58 @@
+1.Consentimento do usuário
+	
+   Ao usar nosso Aplicativo, você está consentindo com o processamento de todos os dados 
+informados no ambiente da aplicação. Processamento significa o uso dos dados coletados, 
+em qualquer que seja o dispositivo de execução, incluindo, mas não limitado a coleta, 
+armazenamento, diagnóstico, em atividades que se darão no território da República Federativa 
+do Brasil.
+
+2.Política de retenção de dados
+
+   Nós iremos reter todos os dados informados à aplicação por um período indeterminado. 
+NÃO iremos pedir ou coletar qualquer informação que nos permita identificação individual 
+ou de grupos de NENHUMA maneira. Ao usar a aplicação você estará consentindo com nossa 
+Política de Retenção de dados e NÃO poderá de forma alguma, pedir o envio de tais informações 
+e nem que estas sejam apagadas de nossos registros.
+
+3.Informações de saúde e diagnósticos
+
+   Você é responsável pela sua própria saúde e manutenção dela. Essa aplicação não pertence 
+a nenhuma organização médica, e não irá disponibilizar qualquer auxílio médico. 
+A proposta dessa aplicação é somente ajudar nossos usuários com informações de 
+TENDÊNCIAS indicadas por uso de nosso algoritmo. Informações indicadas pelo aplicativo 
+podem estar erradas e NÃO devem ser a única fonte de diagnósticos. Auxílio médico e periódico 
+é extremamente recomendado. As informações disponibilizadas devem ser usadas apenas para 
+recreação. O uso da aplicação NÃO garante nenhuma melhora de saúde. Nossos serviços são 
+direcionados apenas para o público adulto. 
+   As informações coletadas e informadas podem ou não serem revisadas para melhorias em 
+futuras versões da aplicação, mas você não receberá qualquer tipo de comunicação sobre 
+revisão dos seus dados fornecidos ou informados a você. Não somos responsáveis por todo e 
+qualquer dano pessoal ou outros perigos resultados, direta ou indiretamente, do uso indevido 
+da aplicação.
+
+4.Propriedade intelectual
+
+   Todos os direitos sobre a aplicação, algoritmos, serviços, marcas registradas são 
+propriedade dos seus autores expresso no menu CRÉDITOS. Você concorda em não usar a 
+Propriedade Intelectual para qualquer outra atividade, exceto para seu uso pessoal e não 
+comercial, ao menos que tenha expressa autorização dos detentores dos direitos da aplicação.
+Ao submeter informações para uso da aplicação você garante que é o detentor dos direitos de 
+tais dados. Você concorda em garantir aos detentores da aplicação o direito não exclusivo, 
+transferível, royalty-free, licença por período indeterminado para operação do aplicativo e 
+manutenção de atualizações.
+
+5.Aviso legal e limite de responsabilidade
+
+   Use o aplicativo por sua própria conta e risco. O aplicativo é disponibilizado “tal como 
+está”, sem qualquer garantia, e não garantimos que os serviços e a disponibilidade da 
+aplicação serão ininterruptos ou que não poderá apresentar erros. Não nos responsabilizamos 
+por qualquer erro ou omissão em informações, programas de computador ou qualquer outra 
+dispositivos eletrônicos ou outros documentos. Endereços de websites são disponibilizados “tal
+como está” sem garantia de qualquer tipo. Em nenhuma situação devemos ser responsabilizados 
+por qualquer dano recorrente, direta ou indiretamente, pela instalação, execução, uso da 
+aplicação e interpretações das informações prestadas pela aplicação.
+
+6.Informações de contato
+
+    Seu contato, comentários e dúvidas são bem vindos. Por favor, contate-nos nos canais de 
+distribuição ou nas páginas da aplicação em redes sociais.

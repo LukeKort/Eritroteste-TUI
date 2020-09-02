@@ -2,7 +2,7 @@
 %Esse parte do programa serve para abrir os links dos anais contendo os
 %artigos referente as redes neurais desse trabalho.
 clc;
-fprintf('\t\t|Nome do app|\n')
+fprintf('\t\t|ERITROTESTE|\n')
 fprintf('\n Anais ERMAC 2018 \t\t\t\t(1)')
 fprintf('\n Diagnóstico assistido por inteligência\n computacional para identificação \n de anemias. Pg. 123.')
 fprintf('\n\n Anais ENMC 2019\t\t\t\t(2)')

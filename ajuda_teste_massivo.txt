@@ -10,15 +10,26 @@ Linha 5 - hematocrito
 Linha 6 - vcm
 Linha 7 - hcm
 Linha 8 - chcm
+Linha 0 - ID do paciente
 
-Como resultado, você receberá uma outra planilha contendo os resultados do
-exame, seguindo a mesma lógica em que cada coluna representa um paciente e
-cada linha representa um dignósticom seguindo a regra:
+Ao entrar com os dados, o programa irá fornecer os dignósticos seguindo a regra:
 
-Linha 1 - resultado p/ anemia considernado a próximidade com 1 positivo 
-para anemia e 0 negativo para anemia
-Linha 2 - resultado p/ Morfologia (1 Microcítica, 2 Normocítica, 3 Macrocítica)
-Linha 3 - resultado p/ Cromaticidade (1 Hipocrômica, 2 Normocrômica, 3 Hipercrômica)
+#Coluna Anemia - resultado p/ anemia
+	
+	*Próximos de 1 - Resultado Positivo 
+	*Próximos de 0 - Resultados Negativos
 
-OBS: Caso não seja detectado anemia, o resultado final apresentará as 
-linhas 2 e 3 vazias (Nem representação numérica).
+#Coluna Morfologia
+
+	* 1 - Microcítica
+	* 2 - Normocítica
+	* 3 - Macrocítica
+
+#Coluna Cromaticidade
+
+	* 1 - Hipocrômica
+	* 2 - Normocrômica
+	* 3 - Hipercrômica)
+
+OBS: Caso não seja detectado anemia (Coluna anemia < 0.8), o resultado final apresentará as 
+Colunas 2 e 3 com zero.

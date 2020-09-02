@@ -32,7 +32,7 @@ else
     resul_apresentacao = 'Inconclusivo';
 end
 clc;
-fprintf('\t\t|Nome do app|\n\n')
+fprintf('\t\t|ERITROTESTE|\n\n')
 fprintf(' Resultados* do seu exame.\n\n Anemia:\t %s\n',resul_apresentacao)
 if resul_exame_anemia >= 0.8 %Sem anemia, sem classificação
     fprintf(' \n Classificação:\n\n')
